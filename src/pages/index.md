@@ -5,24 +5,17 @@ image: /img/Varden_Amerikanske-ambassaden.jpg
 heading: Great coffee with a conscience
 subheading: Høy fokus på CMS
 mainpitch:
-  title: Hvem er vi?
+  title: Why Kaldi
   description: >
-    Varden Entreprenør er et entreprenørselskap som ble stiftet i 2008. Vi har lang bakgrunn fra flere av Norges største entreprenørselskaper, og har lagt til grunn den beste kultur innen KS/HMS og seriøsitet.
-Vi har god soliditet og sterke samarbeidspartnere.
-
+    Kaldi is the coffee store for everyone who believes that great coffee
+    shouldn't just taste good, it should do good too. We source all of our beans
+    directly from small scale sustainable farmers and make sure part of the
+    profits are reinvested in their communities.
 description: >-
-  
-Bedriften kjennetegnes ved;
-
--seriøsitet
--erfarent og dyktig personell
--fleksibilitet
--lave kostnader og konkurransedyktige priser
--sikker gjennomføring og god kvalitet
-
-Varden Entreprenør har sentral godkjenning.
-
-Vi er også medlem i StartBANK, med Id. 139774.
+  Kaldi is the ultimate spot for coffee lovers who want to learn about their
+  java’s origin and support the farmers that grew it. We take coffee production,
+  roasting and brewing seriously and we’re glad to pass that knowledge to
+  anyone.
 intro:
   blurbs:
     - image: /img/coffee.png
