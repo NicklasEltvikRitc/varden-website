@@ -1,33 +1,27 @@
 ---
 templateKey: blog-post
-title: Making sense of the SCAA’s new Flavor Wheel
-date: 2016-12-17T15:04:10.000Z
-featuredpost: false
-featuredimage: /img/flavor_wheel.jpg
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
+title: MANGLERUD 1-10 SKOLE OVERLEVERT
+date: 2017-11-09T15:04:00.000Z
+description: >-
+  Varden Entreprenør overleverte Norges største 1-10 skole til Undervisningsbygg
+  Oslo KF sommeren 2017.
+featuredpost: true
+featuredimage: /img/IMG_6484-002-e1505124675874.jpg
 tags:
-  - flavor
-  - tasting
+  - prosjekt
 ---
-![flavor wheel](/img/flavor_wheel.jpg)
+<!--StartFragment-->
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
+Varden Entreprenør overleverte Norges største 1-10 skole til Undervisningsbygg Oslo KF sommeren 2017.
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
+Vi har overlevert en flott skole, et år før tiden! forteller en entusiastisk prosjektleder Trond Nordbak Øsmundset.
 
-## What the updates mean to you
+Eldre bygg som dette byr ofte på noen overraskelser, men på tross av alle utfordringene har vi funnet gode konstruktive løsninger, som har resultert i en overlevering et år før tiden. Det har vært meget spennende å kunne rehabilitere denne store bygningsmassen med 13 forskjellige bygg, til det som er blitt Norges største 1-10 skole, fortsetter prosjektlederen.
 
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
+Prosjektet startet sommeren 2015, og var beregnet å vare til sommeren 2018. Varden Entreprenør fant løsninger som gjorde det mulig å redusere byggetiden med et år. Totalt har Varden Entreprenør gjort rehabilitering i 12 bygg, og et bygg er blitt revet. Arbeidene består i oppgradering av eksisterende bygningsmasse, med nye tekniske anlegg, overflater og universell utforming. Det er også gjort et betydelig arbeid i skolegården, med nye lekearealer og ballbane.
 
-* producers
-* roasters
-* importers/exporters
-* retailers
-* manufacturers
-* baristas
+Vi har hatt et fantastisk team her oppe, med kunnskap innen alle fagområder. Dette har gjort at vi i samarbeid med kunden kunne løse utfordringer både bygningsmessig, teknisk og i grunnen. Denne bredden av kunnskap som finnes hos Varden Entreprenør, er den viktigste faktoren for suksess i slike kompliserte rehabiliteringsprosjekter, forteller en tydelig fornøyd prosjektleder.
 
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
+Varden Entreprenør gratulerer Undervisningsbygg og brukerne på Manglerud 1-10 skole med et flott skolebygg.
 
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
-
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+<!--EndFragment-->
