@@ -1,29 +1,38 @@
 ---
 templateKey: blog-post
-title: A beginners’ guide to brewing with Chemex
-date: 2017-01-04T15:04:10.000Z
+title: Prosjekt Tollbodene er overlevert
+date: 2019-12-12T15:04:00.000Z
+description: >-
+  Etter en intensiv sommer og høst er Tollbodenprosjektet overlevert til
+  byggherren, Entra Eiendom.
 featuredpost: false
-featuredimage: /img/chemex.jpg
-description: Brewing with a Chemex probably seems like a complicated, time-consuming ordeal, but once you get used to the process, it becomes a soothing ritual that's worth the effort every time.
+featuredimage: /img/IMG_3784.jpg
 tags:
   - brewing
   - chemex
 ---
-![chemex](/img/chemex.jpg)
+<!--StartFragment-->
 
-This week we’ll **take** a look at all the steps required to make astonishing coffee with a Chemex at home. The Chemex Coffeemaker is a manual, pour-over style glass-container coffeemaker that Peter Schlumbohm invented in 1941, and which continues to be manufactured by the Chemex Corporation in Chicopee, Massachusetts.
+![](https://i2.wp.com/www.varden-entreprenor.no/wp-content/uploads/2019/12/IMG_3774.jpg?resize=1024%2C683)
 
-In 1958, designers at the [Illinois Institute of Technology](https://www.spacefarm.digital) said that the Chemex Coffeemaker is _"one of the best-designed products of modern times"_, and so is included in the collection of the Museum of Modern Art in New York City.
+Etter en intensiv sommer og høst er Tollbodenprosjektet overlevert til byggherren, Entra Eiendom.
 
-## The little secrets of Chemex brewing
+Prosjektet har bestått av rehabilitering av to fredede bygg og etablering av et nytt mellombygg som blir inngangsparti.
 
-The Chemex Coffeemaker consists of an hourglass-shaped glass flask with a conical funnel-like neck (rather than the cylindrical neck of an Erlenmeyer flask) and uses proprietary filters, made of bonded paper (thicker-gauge paper than the standard paper filters for a drip-method coffeemaker) that removes most of the coffee oils, brewing coffee with a taste that is different than coffee brewed in other coffee-making systems; also, the thicker paper of the Chemex coffee filters may assist in removing cafestol, a cholesterol-containing compound found in coffee oils. Here’s three important tips newbies forget about:
+– Det har vært et meget lærerikt å spennende prosjekt å jobbe med. Dette er fredede bygg fra 1800 tallet, og med en byggherre som har et sterkt ønske å ta vare på disse flotte bygningene har det blitt et spennende prosjekt å være med på.
 
-1. Always buy dedicated Chemex filters.
-2. Use a scale, don’t try to eyeball it.
-3. Never skip preheating the glass.
-4. Timing is key, don’t forget the clock.
+![](https://i0.wp.com/www.varden-entreprenor.no/wp-content/uploads/2019/12/IMG_3790.jpg?resize=1024%2C683)
 
-The most visually distinctive feature of the Chemex is the heatproof wooden collar around the neck, allowing it to be handled and poured when full of hot water. This is turned, then split in two to allow it to fit around the glass neck. The two pieces are held loosely in place by a tied leather thong. The pieces are not tied tightly and can still move slightly, retained by the shape of the conical glass.
+Slike bygg fremstår med en egen aura og vi har behandlet dem med respekt slik at de fortsetter å være en viktig del av bybildet i noen hundre år til, forteller prosjektleder Trond Nordbak Øsmundset.
 
-For a design piece that became popular post-war at a time of Modernism and precision manufacture, this juxtaposition of natural wood and the organic nature of a hand-tied knot with the laboratory nature of glassware was a distinctive feature of its appearance.
+– Gjennom prosjektet har vi opplevd mange utfordringer, slike gamle bygg har alltid noen overraskelser på lur. Sammen med en proaktiv og kompetent byggherre, gode side- og underentreprenører og et kreativt team, har vi løst alle oppgavene på en god måte, fortsetter Øsmundset.
+
+Prosjektet har vært gjennomført som en hovedentreprise hvor Varden har koordineringen av de tekniske sideentreprisene. Byggherrens representanter har vært samlokalisert med Varden i samme brakkerigg.
+
+– Samarbeidet med byggherre og sideentreprenører er avgjørende på et slikt bygg. Alle parter har fremstått som løsningsorienterte og positive til å skape flotte arbeidsplasser for Tolldirektoratet som nå har tatt lokalene i bruk. Vi er stolte av resultatet.
+
+![](https://i0.wp.com/www.varden-entreprenor.no/wp-content/uploads/2019/12/IMG_3798.jpg?resize=1024%2C683)
+
+![](https://i1.wp.com/www.varden-entreprenor.no/wp-content/uploads/2019/12/IMG_3794.jpg?resize=1024%2C683)
+
+<!--EndFragment-->
