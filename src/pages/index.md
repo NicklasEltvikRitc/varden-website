@@ -18,21 +18,7 @@ Bedriften kjennetegnes ved;
 -sikker gjennomføring og god kvalitet
 Varden Entreprenør har sentral godkjenning.
 Vi er også medlem i StartBANK, med Id. 139774.
-intro:
-  blurbs:
-   - image: /img/coffee.png
-      text: >
-        Tidligfasebistand
-Skisse- & forprosjekt
-Tidligkalkyler, kostnadsoverslag, fastpris
-Rådgivning
-Beslutningsgrunnlag
-       - image: /img/coffee.png
-      text: >
-        Prosjektgjennomføring
-Nybygg og rehabilitering
-Alle entrepriseformer
-Høy fokus på HMS
+
 
 ---
 
