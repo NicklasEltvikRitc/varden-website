@@ -8,8 +8,7 @@ description: >-
 featuredpost: false
 featuredimage: /img/IMG_3784.jpg
 tags:
-  - brewing
-  - chemex
+  - prosjekt
 ---
 <!--StartFragment-->
 
